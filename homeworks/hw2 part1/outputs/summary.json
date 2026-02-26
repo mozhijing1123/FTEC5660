@@ -1,0 +1,37 @@
+[
+  {
+    "file": "CV_1.pdf",
+    "name": "John Smith",
+    "status": "verified",
+    "confidence": 0.12,
+    "num_discrepancies": 3
+  },
+  {
+    "file": "CV_2.pdf",
+    "name": "Minh Pham",
+    "status": "unable_to_verify",
+    "confidence": 0.95,
+    "num_discrepancies": 4
+  },
+  {
+    "file": "CV_3.pdf",
+    "name": "Wei Zhang",
+    "status": "partially_verified",
+    "confidence": 0.47,
+    "num_discrepancies": 3
+  },
+  {
+    "file": "CV_4.pdf",
+    "name": "Rahul Sharma",
+    "status": "unable_to_verify",
+    "confidence": 0.95,
+    "num_discrepancies": 4
+  },
+  {
+    "file": "CV_5.pdf",
+    "name": "Rahul Sharma",
+    "status": "unable_to_verify",
+    "confidence": 0.95,
+    "num_discrepancies": 5
+  }
+]

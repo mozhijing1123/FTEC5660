@@ -1,0 +1,33 @@
+{
+  "full_name": "John Smith",
+  "headline": "Marketing Professional",
+  "current_location": "Singapore, Singapore Kowloon",
+  "phone": null,
+  "email": null,
+  "skills": [
+    "Content Creation",
+    "SEO",
+    "Social Media"
+  ],
+  "experiences": [
+    {
+      "company": "ByteDance",
+      "title": "Engineer",
+      "start_date": "2020",
+      "end_date": "Present",
+      "location": null,
+      "description": "Worked in a fast-paced, global technology environment. Collaborated across teams to support large-scale platforms. Applied analytical and problem-solving skills in production systems."
+    }
+  ],
+  "education": [
+    {
+      "school": "McGill University",
+      "degree": "Bachelor of Science (BSc)",
+      "field_of_study": "Marketing",
+      "graduation_year": "2009",
+      "start_year": null,
+      "end_year": "2009"
+    }
+  ],
+  "raw_text_excerpt": "John Smith \n \n Marketing Professional \n + Singapore, Singapore Kowloon \nExperience\n 2020 – Present \n \n Engineer, ByteDance \n • Worked in a fast-paced, global technology environment. \n • Collaborated across teams to support large-scale platforms. \n• Applied analytical and problem-solving skills in production systems.\nEducation\n McGill University Graduated 2009 \n \n Bachelor of Science (BSc) in Marketing \nSkills\n Content Creation SEO Social Media \n \n1"
+}

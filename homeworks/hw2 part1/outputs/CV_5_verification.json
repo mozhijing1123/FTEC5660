@@ -1,0 +1,70 @@
+{
+  "file": "CV_5.pdf",
+  "person_name": "Rahul Sharma",
+  "overall_status": "unable_to_verify",
+  "confidence": 0.95,
+  "selected_linkedin": {
+    "platform": "linkedin",
+    "candidate_id": "2261",
+    "display_name": "Rahul Sharma",
+    "profile_url": "https://www.linkedin.com/in/2261",
+    "score": 0.4,
+    "reason": "Name matches. Located in Singapore, which is one of the CV locations (London / Hong Kong / Singapore). Industry is AI and skills include TensorFlow, Python, and NLP, which partially match the CV's AI/ML skillset. However, there is no EY or University of Tokyo in the work/education history, and the education shows a BSc from Peking University instead of a PhD from University of Tokyo, so this is at best a weak partial match."
+  },
+  "selected_facebook": {
+    "platform": "facebook",
+    "candidate_id": "12",
+    "display_name": "Rahul Sharma",
+    "profile_url": "https://www.facebook.com/12",
+    "score": 0.35,
+    "reason": "Exact‑name Facebook match in London, UK, which aligns with one of the CV locations. No additional employment/education data are available to confirm EY or University of Tokyo, so this remains a moderate‑to‑low confidence location/name candidate only."
+  },
+  "discrepancies": [
+    {
+      "field": "identity.name",
+      "severity": "medium",
+      "status": "missing",
+      "cv_value": "Rahul Sharma",
+      "social_value": null,
+      "evidence": "No LinkedIn name available",
+      "rationale": null
+    },
+    {
+      "field": "experience[0]",
+      "severity": "high",
+      "status": "mismatch",
+      "cv_value": "EY / Senior Engineer / None-Current",
+      "social_value": null,
+      "evidence": "Compared against LinkedIn experiences",
+      "rationale": null
+    },
+    {
+      "field": "experience[1]",
+      "severity": "high",
+      "status": "mismatch",
+      "cv_value": "StartupXYZ / Consultant / 2019-2021",
+      "social_value": null,
+      "evidence": "Compared against LinkedIn experiences",
+      "rationale": null
+    },
+    {
+      "field": "experience[2]",
+      "severity": "high",
+      "status": "mismatch",
+      "cv_value": "DataForge / Senior Analyst / 2016-Present",
+      "social_value": null,
+      "evidence": "Compared against LinkedIn experiences",
+      "rationale": null
+    },
+    {
+      "field": "education[0]",
+      "severity": "high",
+      "status": "mismatch",
+      "cv_value": "University of Tokyo / PhD / Artificial Intelligence / 2012",
+      "social_value": null,
+      "evidence": "Compared against LinkedIn education",
+      "rationale": null
+    }
+  ],
+  "summary": "The CV is for a Rahul Sharma in AI/ML with a PhD in Artificial Intelligence from the University of Tokyo and roles at EY, DataForge, UrbanFlow, and StartupXYZ across London, Hong Kong, and Singapore. Multiple social profiles with the same name were found in these locations, which supports that the name–location combination is plausible. However, none of the LinkedIn or Facebook candidates show overlapping employers (EY, DataForge, UrbanFlow, StartupXYZ) or education at the University of Tokyo, and one closest AI profile lists a BSc from Peking University instead of a PhD from Tokyo. Due to the absence of any strong, direct matches on work history or education, the CV details cannot be reliably confirmed at this time. The information may be accurate but currently remains uncorroborated by available online data."
+}

@@ -1,0 +1,41 @@
+{
+  "full_name": "Minh Pham",
+  "headline": "Design Professional",
+  "current_location": "Beijing, China; Hong Kong",
+  "phone": null,
+  "email": null,
+  "skills": [
+    "UI/UX Design",
+    "Prototyping",
+    "Graphic Design"
+  ],
+  "experiences": [
+    {
+      "company": "BCG",
+      "title": "Manager",
+      "start_date": "2022",
+      "end_date": "Present",
+      "location": null,
+      "description": "Led cross-functional teams on client-facing design initiatives. Managed project timelines, deliverables, and stakeholder communication. Applied design thinking to business and strategy problems."
+    },
+    {
+      "company": "Tencent",
+      "title": "Analyst",
+      "start_date": "2013",
+      "end_date": "2017",
+      "location": null,
+      "description": "Conducted market and product analysis to support decision-making. Collaborated with design and engineering teams. Produced reports and insights for senior leadership."
+    }
+  ],
+  "education": [
+    {
+      "school": "The University of Hong Kong",
+      "degree": "BSc in Design",
+      "field_of_study": "Design",
+      "graduation_year": "2011",
+      "start_year": null,
+      "end_year": "2011"
+    }
+  ],
+  "raw_text_excerpt": "Minh Pham \n \nDesign Professional\n Beijing, China Hong Kong \n \n Professional Experience \n Manager, BCG 2022 – Present \n • Led cross-functional teams on client-facing design initiatives. \n• Managed project timelines, deliverables, and stakeholder communication.\n • Applied design thinking to business and strategy problems. \n \n Analyst, Tencent 2013 – 2017 \n• Conducted market and product analysis to support decision-making.\n • Collaborated with design and engineering teams. \n \n • Produced reports and insights for senior leadership. \nEducation\n BSc in Design 2011 \n \n The University of Hong Kong \nSkills\n • UI/UX Design \n \n• Prototyping\n • Graphic Design \n \n1"
+}

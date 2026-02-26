@@ -1,0 +1,66 @@
+{
+  "full_name": "Rahul Sharma",
+  "headline": "AI Professional",
+  "current_location": "London Hong Kong Singapore (Hometown)",
+  "phone": null,
+  "email": null,
+  "skills": [
+    "Advanced AI Systems",
+    "Machine Learning",
+    "ML",
+    "Natural Language Processing",
+    "NLP",
+    "TensorFlow",
+    "PyTorch",
+    "Python",
+    "Data analysis",
+    "Model evaluation",
+    "AI strategy",
+    "Data strategy"
+  ],
+  "experiences": [
+    {
+      "company": "EY",
+      "title": "Senior Engineer",
+      "start_date": null,
+      "end_date": "Current",
+      "location": null,
+      "description": "Designed and evaluated AI-driven solutions for enterprise clients. Applied ML techniques to large-scale business problems."
+    },
+    {
+      "company": "StartupXYZ",
+      "title": "Consultant",
+      "start_date": "2019",
+      "end_date": "2021",
+      "location": null,
+      "description": "Provided AI and data strategy advisory to early-stage companies."
+    },
+    {
+      "company": "DataForge",
+      "title": "Senior Analyst",
+      "start_date": "2016",
+      "end_date": "Present",
+      "location": null,
+      "description": "Conducted advanced data analysis and model evaluation."
+    },
+    {
+      "company": "UrbanFlow",
+      "title": "Lead Scientist",
+      "start_date": "2010",
+      "end_date": "2017",
+      "location": null,
+      "description": "Led research initiatives in applied AI systems. Mentored junior researchers and engineers."
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Tokyo",
+      "degree": "PhD",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_year": "2012",
+      "start_year": null,
+      "end_year": null
+    }
+  ],
+  "raw_text_excerpt": "Rahul Sharma \n \nAI Professional\n London Hong Kong Singapore (Hometown) \n \n Core Skills Professional Experience \n Machine Learning & AI Senior Engineer \n EY Current \n • Advanced AI Systems \n • Designed and evaluated AI-driven solutions for \n enterprise clients. \n • Machine Learning (ML) \n • Applied ML techniques to large-scale business \n • Natural Language Processing (NLP) problems. \nConsultant\n Frameworks & Tools \n \n StartupXYZ 2019 – 2021 \n • TensorFlow • Provided AI and data strategy advisory to \n early-stage companies. \n• PyTorch\nSenior Analyst\n DataForge 2016 – Present \n \n• Python\n • Conducted advanced data analysis and model \n \nevaluation.\nLead Scientist\nEducation\n UrbanFlow 2010 – 2017 \n \nPhD in Artificial Intelligence • Led research initiatives in applied AI systems.\n University of Tokyo \n \n 2012 • Mentored junior researchers and engineers. \n1"
+}

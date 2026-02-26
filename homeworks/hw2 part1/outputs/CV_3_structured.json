@@ -1,0 +1,34 @@
+{
+  "full_name": "Wei Zhang",
+  "headline": "Consulting Professional",
+  "current_location": "Munich, Germany",
+  "phone": null,
+  "email": null,
+  "skills": [
+    "Analytical Data Analysis",
+    "Problem Solving",
+    "Business Strategy",
+    "PowerPoint"
+  ],
+  "experiences": [
+    {
+      "company": "PwC",
+      "title": "Engineer",
+      "start_date": "2013",
+      "end_date": "Present",
+      "location": null,
+      "description": "Supported consulting engagements across multiple client projects. Performed data analysis to inform strategic recommendations. Collaborated with cross-functional teams in a professional services environment."
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Tokyo",
+      "degree": "BSc in Consulting",
+      "field_of_study": "Consulting",
+      "graduation_year": "2015",
+      "start_year": null,
+      "end_year": "2015"
+    }
+  ],
+  "raw_text_excerpt": "Wei Zhang Munich, Germany \n \n Consulting Professional Sydney (Hometown) \n Professional Experience \n 2013 – Present Engineer, PwC \n• Supportedconsultingengagementsacrossmultipleclient\nprojects.\n • Performed data analysis to inform strategic recommen- \n \ndations.\n • Collaborated with cross-functional teams in a profes- \n \n sional services environment. \nEducation\n 2015 BSc in Consulting \n \n University of Tokyo \nSkills\n Analytical Data Analysis, Problem Solving \n \n Business Strategy, PowerPoint \n1"
+}

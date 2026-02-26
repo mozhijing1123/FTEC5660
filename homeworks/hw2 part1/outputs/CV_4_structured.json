@@ -1,0 +1,44 @@
+{
+  "full_name": "Rahul Sharma",
+  "headline": "Legal Professional",
+  "current_location": "Singapore / Philippines",
+  "phone": null,
+  "email": null,
+  "skills": [
+    "Compliance",
+    "Litigation",
+    "Contract Review",
+    "Web3",
+    "Machine Learning",
+    "Quantum Computing"
+  ],
+  "experiences": [
+    {
+      "company": "Microsoft",
+      "title": "Senior Engineer",
+      "start_date": "2021",
+      "end_date": "2027",
+      "location": null,
+      "description": "Led compliance-focused initiatives within large-scale technical teams. Advised on regulatory, legal, and risk considerations for complex systems. Worked at the intersection of law, technology, and governance."
+    },
+    {
+      "company": "StartupXYZ",
+      "title": "Consultant",
+      "start_date": "2020",
+      "end_date": "2023",
+      "location": null,
+      "description": "Provided legal and strategic consulting for early-stage companies. Supported contract review, compliance, and operational risk management. Engaged with cross-functional and international stakeholders."
+    }
+  ],
+  "education": [
+    {
+      "school": "Tsinghua University",
+      "degree": "PhD",
+      "field_of_study": "Legal Studies",
+      "graduation_year": "2021",
+      "start_year": null,
+      "end_year": "2021"
+    }
+  ],
+  "raw_text_excerpt": "Rahul Sharma \n \nLegal Professional\n Singapore (Hometown) Singapore / Philippines \n \n Professional Experience \n 2021 – 2027 Senior Engineer, Microsoft \n • Led compliance-focused initiatives within large-scale techni- \ncal teams.\n• Advisedonregulatory,legal,andriskconsiderationsforcom-\nplex systems.\n • Worked at the intersection of law, technology, and gover- \n \nnance.\n 2020 – 2023 Consultant, StartupXYZ \n \n • Provided legal and strategic consulting for early-stage com- \npanies.\n • Supported contract review, compliance, and operational risk \n \nmanagement.\n • Engaged with cross-functional and international stakehold- \n \ners.\nEducation\n2021\n PhD in Legal Studies \n \n Tsinghua University \nSkills\n Compliance, Litigation, Contract Review \n \n Web3, Machine Learning, Quantum Computing \n1"
+}
